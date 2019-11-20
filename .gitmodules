@@ -1,0 +1,3 @@
+[submodule "src/drive/axp"]
+	path = src/drive/axp
+	url = https://github.com/lewisxhe/AXP202X_Library.git
